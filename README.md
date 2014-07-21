@@ -1,9 +1,8 @@
-# quests
+#  [Quests](https://github.com/jbenet/quests/issues)
 
-In which jbenet asks others for help. 
+In which jbenet asks other adventurers for their assistance. 
 
-See: [JRFC 26 - Jobs as Quests](https://github.com/jbenet/random-ideas/issues/26)
+See [available quests](https://github.com/jbenet/quests/issues).
 
-head over to:
+See also [JRFC 26 - Jobs as Quests](https://github.com/jbenet/random-ideas/issues/26).
 
-## [Quests!](https://github.com/jbenet/quests/issues)
